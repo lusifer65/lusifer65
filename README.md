@@ -11,7 +11,6 @@
 - 📫 How to reach me --> akash.verma2580@gmail.com 
 - 👨‍💻 All of my projects are available at [https://github.com/lusifer65](https://github.com/lusifer65) **
 
-  ![Lusifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusifer65&hide=[%22issues%22]&show_icons=true&theme=dark)
 <!-- <img src="https://komarev.com/ghpvc/?username=lusifer65&label=Profile%20views&color=0e75b6&style=flat" alt="lusifer65" /> --->
 <h3 align="centre">Connect with me:</h3>
 <p align="left">
@@ -25,9 +24,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/en/3.0.x" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="70" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  
-<p align="centre"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lusifer65&" alt="lusifer65" /></p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lusifer65&" alt="lusifer65" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=lusifer65&hide=[%22issues%22]&show_icons=true&theme=dark" align="left" alt="gitHub_card">
+ 
 <!---
 lusifer65/lusifer65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
