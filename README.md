@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash verma</h1>
+
+![image](https://github.com/lusifer65/lusifer65/assets/42277681/5e8eaaac-f597-4346-9210-050d18db33a9)
+
 <img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 - 🌐 My Portfolio available here 👉🏻 <a href="https://lusifer65.github.io/portfolio_/" target="_blank">Lusifer 65</a>
